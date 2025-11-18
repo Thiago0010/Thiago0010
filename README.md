@@ -1,36 +1,54 @@
-# 👋 Fala aí, eu sou o [NEV]Thi_ii  
+# 👋 Olá! Eu sou o Thi_ii
 
-🚀 Programador em constante evolução | Criador do **NevOS** (um sistema operacional do zero)  
-🎯 Curto desafios insanos, projetos doidos e aprender aquilo que "não dá pra aprender".  
-
----
-
-## ⚡ Sobre mim
-- 🔨 Atualmente trabalhando em: **NevOS** – um sistema operacional feito do zero (bootloader → kernel → GUI).  
-- 💡 Interesses: sistemas operacionais, low-level, Projetos Simples até Projetos muito complexos, sites e tudo que envolva quebrar limites.  
-- 🧠 Sempre aprendendo novas linguagens e arquiteturas.  
-- 🔥 Curto explorar ideias fora da caixa e transformar em código real.  
+Programador apaixonado por construir coisas do zero — desde aplicações web até sistemas de baixo nível como kernels e bootloaders.  
+Gosto de entender como tudo funciona por dentro e transformar ideias em código real.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Assembly (x86, x86_64), Python, JavaScript, html, css, etc.   
-- **Projetos Low-Level:** Bootloaders, Kernels, Drivers, **Kernel Panic**  
-
-
----
-
-## 🚀 Projetos em Destaque
-- 🖥️ **NevOS** – Sistema operacional próprio, modular, com GUI em Assembly puro.  
-- ⚡ **NevEdu** – Sistema de educação generativa por AI.  
-- 🔌 **Machine Learning** Aprendizado inteligente de uma AI.  
+## 🚀 O que eu faço
+- Desenvolvimento de **sistemas operacionais** (bootloader, kernel, drivers, terminal, GUI)
+- Programação de **baixo nível** com Assembly e C
+- Criação de **aplicações web** usando JavaScript e React
+- Desenvolvimento de ferramentas, utilitários e experimentos de código
 
 ---
 
-## 🌐 Conecte-se comigo
-📫 Me chama no GitHub mesmo ou manda um salve:  
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caselasthiago@gmail.com)  
+## 🛠️ Tecnologias que uso
+### 💡 Linguagens
+- **C**
+- **Assembly (x86)**
+- **JavaScript**
+- **Python**
+
+### 🌐 Web
+- React  
+- HTML & CSS  
+
+### ⚙️ Outros
+- Git  
+- Linux  
+- QEMU  
+- VSCode  
 
 ---
 
-✨ *"Se não existe, eu crio. Se já existe, eu faço melhor."*  
+## 📂 Projetos em Destaque
+### 🟦 NevOS  
+Meu próprio sistema operacional feito do zero.  
+Inclui:
+- Bootloader próprio  
+- Kernel em C + Assembly  
+- Terminal básico  
+- Sistema de arquivos  
+- GUI própria  
+
+---
+
+## 📚 Atualmente estudando
+- Arquitetura de sistemas operacionais  
+- Otimização de código em baixo nível  
+- Estruturas de dados e algoritmos  
+
+---
+
+⭐ _Sempre buscando evoluir como programador e construir projetos cada vez mais completos._
