@@ -67,6 +67,15 @@ Projetos desenvolvidos em conjunto com o time, focados em inovação e ferrament
 
 ---
 
+
+### SITES
+https://thiago0010.github.io/-NEV-Thi-DEV/
+https://nev-bot-automations.infinityfree.me/?i=1
+https://caldasdiromalocacoes.kesug.com/
+https://parreirasdosul.com/
+https://www.slimlifereviews.com
+https://jjpereiraprodutosnaturais.netlify.app/
+
 ### 📬 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago0010)
