@@ -52,12 +52,12 @@ Como fundador e integrante do time **[NEV]²**, lidero e participo de projetos q
 
 #### **[NEV]²**
 Projetos desenvolvidos em conjunto com o time, focados em inovação e ferramentas de código aberto.
-* **[Nome do Projeto]:** Breve descrição do impacto e tecnologia utilizada.
-* **[Nome do Projeto]:** Breve descrição do impacto e tecnologia utilizada.
+* **MyFreela:** Dashboard Profiissional Para gerenciamento de freelances.
+* **Parreias Do Sul:** Landing Page Para uma marca de sucos do Sul chamado Parreiras Do Sul.
 
 #### **Destaques Pessoais**
-* **[Nome do Repositório]:** Sistema de [X] desenvolvido para resolver [Y].
-* **[Nome do Repositório]:** Automação em [Linguagem] para controle de [Z].
+* **NevEdu:** Sistema para escolas integrando IA para criação de cursos especializados.
+* **[NEV]²OS:** Sistema Operacional em 64 BITS.
 
 ---
 
@@ -69,8 +69,8 @@ Projetos desenvolvidos em conjunto com o time, focados em inovação e ferrament
 
 ### 📬 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago0010)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nev.thi.ii)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caselasthiago@gmail.com)
 
 ---
