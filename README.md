@@ -1,5 +1,5 @@
 # Thiago Caselato de Mendonça
-**Software Engineer | Founder @ [NEV]²**
+**Software Engineer | Founder @ [NEV]²; Fiscaliza-DF; PrismOS**
 
 > Construindo sistemas resilientes e soluções de software que transcendem a teoria para resolver problemas do mundo real.
 
